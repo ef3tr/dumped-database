@@ -1,0 +1,9 @@
+Database: ridascom_es
+Table: administrator
+[2 entries]
++----------+----------------------------------+---------+----------------------+----+
+| username | sifre                            | user_ad | user_mail            | id |
++----------+----------------------------------+---------+----------------------+----+
+| hucerez  | aca2a4b8b0b0a43ed2557ad55bbcf6e6 | huseyin | huseyin@ridas.com.tr | 1  |
+| xqm26    | 14cf84bc8cd29b22bf14607ceddb3fae | bilal   | bilal@eserajans.com  | 2  |
++----------+----------------------------------+---------+----------------------+----+
