@@ -1,0 +1,15 @@
+Database: casell_2019b
+Table: uyeler
+[8 entries]
++------------+------------------+----------------------------+-----+----+
+| username   | password         | email                      | tip | id |
++------------+------------------+----------------------------+-----+----+
+| ismail     | mZKlkpim         | ismail@aktifmedya.net      | 10  | 1  |
+| aktifmedya | mZKlkpim         | info@aktifmedya.net        | 10  | 7  |
+| casella    | wszmysfV1MTf     | info@casella.com.tr        | 10  | 8  |
+| admin      | mZKlkpim         | info@aktifinternet.com     | 10  | 11 |
+| selcuk     | xMLlxs3ewpI=     | selcuk@casella.com.tr      | 10  | 14 |
+| hakan      | xMLlxs3ewpI=     | hakan@casella.com.tr       | 10  | 15 |
+| mucahit    | mpmpl5amlJOjkQ== | mucahit@casella.com.tr     | 10  | 16 |
+| faruk      | mZKzzNXbx5Oikg== | farukselimyildiz@gmail.com | 10  | 17 |
++------------+------------------+----------------------------+-----+----+
