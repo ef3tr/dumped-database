@@ -1,0 +1,8 @@
+Database: sarpakcom_sarpak
+Table: user
+[1 entry]
++----+-------+-------+
+| id | k_adi | sifre |
++----+-------+-------+
+| 1  | 1     | 1     |
++----+-------+-------+
