@@ -1,0 +1,25 @@
+Database: admin_gdbs                        
+Table: users
+[18 entries]
++-------------------------------+---------------------------------------------+
+| user_mail                     | user_pass                                   |
++-------------------------------+---------------------------------------------+
+| destek@haberpaketleri.com     | 65fb28ef2122a7512226a935fbeb83b6            |
+| yusuf.polat@tdp.org.tr        | 21c70385c4350b2ba165637ba7dc28e3 (01012001) |
+| murat.albayrakoglu@tdp.org.tr | 65fb28ef2122a7512226a935fbeb83b6            |
+| ali.kaya@tdp.org.tr           | 21c70385c4350b2ba165637ba7dc28e3 (01012001) |
+| ali.celik@tdp.org.tr          | 21c70385c4350b2ba165637ba7dc28e3 (01012001) |
+| mehmet.sahade@tdp.org.tr      | 21c70385c4350b2ba165637ba7dc28e3 (01012001) |
+| caner.ergan@tdp.org.tr        | 9fac08c6e8f077539fe92a66a96bc4c8 (02022002) |
+| gizem.bilgin@tdp.org.tr       | 21c70385c4350b2ba165637ba7dc28e3 (01012001) |
+| emre.zenci@tdp.org.tr         | e4eec1b1fb0d4cf7e4fd1b331b538217 (0202002)  |
+| erciyes.akcay@tdp.org.tr      | 9fac08c6e8f077539fe92a66a96bc4c8 (02022002) |
+| eda.ergen@tdp.org.tr          | b4c434dcfad7584921fa42093ca6dce2            |
+| bircan.demirer@tdp.org.tr     | 9fac08c6e8f077539fe92a66a96bc4c8 (02022002) |
+| melek.akman@tdp.org.tr        | 3ce1fe1db60d12d418fc8f411ee89522 (201433)   |
+| dogukan.erdinc@tdp.org.tr     | 5b484a25ec908e3df4a18f3e3e791a55 (550551055)|
+| engin.erenler@tdp.org.tr      | a1afefa178171e009c690d606dcd1e97 (1919019)  |
+| berna.ozdemir@tdp.org.tr      | e9685c90bb09dd638dbcc8e5a449c572 (01011001) |
+| ibrahim.tas@tdp.org.tr        | 1522b26a65900a8fde5ee5b3dae1ecd1 (6363063)  |
+| deniz.kaya@tdp.org.tr         | 3b489c3f50e16b90396362283aba04f4 (06ankara) |
++-------------------------------+---------------------------------------------+
