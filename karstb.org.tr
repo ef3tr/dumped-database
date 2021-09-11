@@ -1,0 +1,9 @@
+KARS TİCARET BORSASI DUMP
+Database: karstbdb
+Table: gkngp
+[1 entry]
++----+------------+------------+---------------+
+| ID | Usernamegp | Passwordgp | Mail          |
++----+------------+------------+---------------+
+| 1  | ademmoco   | WaGm8qJZ   | mail@mail.com |
++----+------------+------------+---------------+
