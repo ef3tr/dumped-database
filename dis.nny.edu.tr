@@ -1,0 +1,10 @@
+Database: disnnyed_dbb
+Table: kulanicilar
+[3 entries]
++----+--------------+--------+----------------------------------+--------------------------------+
+| id | adi          | kadi   | sifre                            | unvani                         |
++----+--------------+--------+----------------------------------+--------------------------------+
+| 1  | Selma Yeşil  | admin  | bfd0046dd0b6776c670241ff04419e43 | Halkla İlşkiler                |
+| 42 | Arif         | arif   | 7c5af2393baf38c7ea4d1941cfb0be78 | Bilgi İşlem Şefi               |
+| 44 | Hatice Bıyık | hatice | 304325b1d25fa2bbc4e25cd3b8672bad | Hasta Hakları / Kalite Birimi  |
++----+--------------+--------+----------------------------------+--------------------------------+
