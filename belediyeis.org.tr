@@ -1,0 +1,9 @@
+Database: belediye_yeni
+Table: ayar
+[2 entries]
++-------+------------------+
+| usr   | pwd              |
++-------+------------------+
+| admin | 3850316          |
+| klvz  | ba8d6bf79e138f7b |
++-------+------------------+
