@@ -1,0 +1,13 @@
+İSTANBUL DÜNYA TİCARET MERKEZİ DUMPED
+
+Database: xeqidtm_idtm_yeni
+Table: kullanicilar
+[4 entries]
++--------------+----------------------+----------------------------------------------------+---------------------------+---------------------+----------+------------+
+| kullanici_id | kullanici_adi        | kullanici_sifre                                    | kullanici_email           | kullanici_departman | added_by | added_date |
++--------------+----------------------+----------------------------------------------------+---------------------------+---------------------+----------+------------+
+| 1            | Erşan Ertüzün        | b74977ecb750d5b450f637c8f5bb6b10 (Istanbul00)      | eertuzun@wtcistanbul.net  | 1                   | 1        | 2014-06-05 |
+| 7            | Okay Başbuğ          | 9f32abed10630590ac3a33f518260a96 (okay@foreign)    | obasbug@wtcistanbul.net   | 2                   | 1        | 2016-11-21 |
+| 6            | İş Merkezi Pazarlama | 0537b95125a51c323bb3c8681f0d3b4a                   | ismerkezi@wtcistanbul.net | 4                   | 1        | 2014-10-09 |
+| 8            | Sefanur Güvercin     | 66b3342eba4c110620a4ee8fc60e0812 (sefanur@foreign) | sguvercin@wtcistanbul.net | 2                   | 1        | 2016-11-22 |
++--------------+----------------------+----------------------------------------------------+---------------------------+---------------------+----------+------------+
