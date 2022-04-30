@@ -1,0 +1,9 @@
+Database: ruzgar_db
+Table: uye
+[2 entries]
++----+--------+------------------+-------+
+| id | ad     | email            | sifre |
++----+--------+------------------+-------+
+| 1  | cemulu | cemulu@gmail.com | 12345 |
+| 2  | Nilgün | nilgun@gmail.com | 12345 |
++----+--------+------------------+-------+
