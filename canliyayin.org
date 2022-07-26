@@ -1,0 +1,11 @@
+CANLIYAYIN.ORG DUMPED
+VULN URL: http://canliyayin.org/uye_onay.php (POST)
+
+Database: canliyayin_yeni
+Table: kullanici
+[1 entry]
++----+---------+-------+----------+-------+
+| id | adsoyad | kad   | sifre    | durum |
++----+---------+-------+----------+-------+
+| 12 | admin   | admin | 1q2w3e4r | AKTIF |
++----+---------+-------+----------+-------+
