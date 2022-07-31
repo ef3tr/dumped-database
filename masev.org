@@ -1,0 +1,26 @@
+MALÜM SEYİT VAKFI (MASEV) DUMPED
+
+Database: masev_org_db
+Table: users
+[6 entries]
++----+-----------------+---------+-----------+---------+
+| id | adsoyad         | kadi    | sifre     | bolge   |
++----+-----------------+---------+-----------+---------+
+| 1  | Sezer Delibayır | sezer   |           | GÜZELCE |
+| 2  | Fatih Güvendik  | fatih60 | fatih1453 |         |
+| 3  | Turan Tosun     | turan   | turan1453 | SİLİVRİ |
+| 11 | Kenan Gülender  | kenan60 | kenan2020 |         |
+| 12 | Enes Solmaz     | enes60  | enes2020  | GÜZELCE |
+| 15 | Rasim Yağar     | rasim   | rasim1453 | SİLİVRİ |
++----+-----------------+---------+-----------+---------+
+
+MASEV FUTBOL TAKIMI
+
+Database: u7039660_turnuva
+Table: users
+[1 entry]
++-----+------------+------+-----------+
+| uid | adsoyad    | kadi | sifre     |
++-----+------------+------+-----------+
+| 1   | Ömer Akyol | ömer | Ömer.3460 |
++-----+------------+------+-----------+
