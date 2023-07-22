@@ -265,3 +265,267 @@ Table: kullanici
 | 1148 | MERKEZ Ä°LÃ\x87E KULLANICISI                       | merkez_976          | 314846    |
 | 1149 | YIÄ\x9eILCA Ä°LÃ\x87E KULLANICISI                  | yiilca_977          | 398143    |
 +------+----------------------------------------------------+---------------------+-----------+
+
+Database: ecdad_data
+Table: yarismacilar
+[22538 entries]
++-------+---------------------------------------+----------------------------------------+-------------------+---------+
+| id    | ad                                    | soyad                                  | ceptel            | puan    |
++-------+---------------------------------------+----------------------------------------+-------------------+---------+
+| 22283 | BÃ¼Å\x9fra Nur                        | KÃ¼rklÃ¼                               | 5412371928        | <blank> |
+| 22284 | Merve                                 | Ezer                                   | 5375677203        | <blank> |
+| 22285 | Cennet                                | sari                                   | 5054193978        | <blank> |
+| 22286 | Huzeyfe                               | KÃ¼Ã§Ã¼kateÅ\x9f                       | 5453458353        | <blank> |
+| 22287 | Rukiye                                | AtaÅ\x9f                               | 5383750796        | <blank> |
+| 22288 | Muhammed                              | Ã\x87apuk                              | 5511120018        | <blank> |
+| 22289 | cansu                                 | samioÄ\x9flu                           | 5455354805        | <blank> |
+| 22290 | FERUZE                                | BÄ°LÄ°R                                | 5301190266        | <blank> |
+| 22291 | MEHMET KAZIM                          | DOÄ\x9eAN                              | 5531144086        | <blank> |
+| 22292 | KÃ¼bra                                | Zortul                                 | 5317735417        | <blank> |
+| 22293 | Muhammed Faruk                        | Demir                                  | 5399472331        | <blank> |
+| 22294 | Asiye                                 | Cinviz                                 | 5336691654        | <blank> |
+| 22295 | BetÃ¼l                                | KoÃ§ak                                 | 5418222767        | <blank> |
+| 22296 | Ahmet Arda                            | Karaman                                | 905319356191      | <blank> |
+| 22297 | faruk                                 | nuroÄ\x9flu                            | 5527060661        | <blank> |
+| 22298 | AydÄ±n                                | Å\x9eimÅ\x9fek                         | 5065885703        | <blank> |
+| 22299 | Sevda                                 | Engin                                  | 5315453534        | <blank> |
+| 22300 | Salih                                 | HAN                                    | 5435316328        | <blank> |
+| 22301 | Abdulkadir                            | Karacabey                              | 5552088316        | <blank> |
+| 22302 | FÄ°RDEVS                              | BATMANLI                               | 5392886235        | <blank> |
+| 22303 | Salih                                 | KiÅ\x9fi                               | 5444387749        | <blank> |
+| 22304 | Fatma                                 | Han                                    | 5379479497        | <blank> |
+| 22305 | Ahmet                                 | AkkoÃ§                                 | 5348386424        | <blank> |
+| 22306 | Mihrican                              | Demirtas                               | 5393850704        | <blank> |
+| 22307 | MevlÃ¼de                              | POLAT                                  | 5452405099        | <blank> |
+| 22308 | Sevgi                                 | Uslu                                   | 5063681579        | <blank> |
+| 22309 | sÃ¼meyye                              | cabbar                                 | 5061243804        | <blank> |
+| 22310 | muhammed                              | erden                                  | 5376133665        | <blank> |
+| 22311 | Onur                                  | TÃ¼rk                                  | 5399119463        | <blank> |
+| 22312 | Mehmet yasir                          | KÃ¶lemenoÄ\x9flu                       | 5372279766        | <blank> |
+| 22313 | Muhammed                              | Salih                                  | 5545674836        | <blank> |
+| 22314 | Kadir                                 | Kaya                                   | 5352487451        | <blank> |
+| 22315 | GÃ¼lseren                             | Duran                                  | 5462637601        | <blank> |
+| 22316 | Serkan                                | Alim                                   | 5076124308        | <blank> |
+| 22317 | Eda                                   | Ã\x9cnver                              | 5466023720        | <blank> |
+| 22318 | Aycan                                 | Kartal                                 | 5305838333        | <blank> |
+| 22319 | Mahiye                                | DÃ¼zgÃ¼n                               | 5458815632        | <blank> |
+| 22320 | Mehmet                                | EryÄ±lmaz                              | 5322155318        | <blank> |
+| 22321 | Emrullah                              | Demir                                  | 5318942882        | <blank> |
+| 22322 | Semiha                                | KÄ±pÄ±k                                | 5419629602        | <blank> |
+| 22323 | hikmet                                | kÃ¶se                                  | 5353132186        | <blank> |
+| 22324 | Fatma                                 | Dilsiz                                 | 5530830861        | <blank> |
+| 22325 | HÃ¼seyin alp                          | EÅ\x9fiyok                             | 5416747532        | <blank> |
+| 22326 | HÄ±dÄ±r Cihat                         | Å\x9eimÅ\x9fek                         | 5356052580        | <blank> |
+| 22327 | Mehmet Harun                          | Topay                                  | 5337265796        | <blank> |
+| 22328 | Yunus                                 | Erden                                  | 5374715188        | <blank> |
+| 22329 | AyÅ\x9fe                              | KÃ¶se                                  | 5317041299        | <blank> |
+| 22330 | Ä°smail                               | ARIKAN                                 | 5468106872        | <blank> |
+| 22331 | Bilal emre                            | GÃ¼neÅ\x9f                             | 5052428980        | <blank> |
+| 22332 | Kamil                                 | Kayar                                  | 5345653139        | <blank> |
+| 22333 | Ahmet Safa                            | Sertkaya                               | 5350205871        | <blank> |
+| 22334 | Halime                                | Serdar                                 | 905377191886      | <blank> |
+| 22335 | Meryem                                | Ã\x96ZCAN                              | 5054511477        | <blank> |
+| 22336 | Enes                                  | GÃ¼len                                 | 5340775737        | <blank> |
+| 22337 | Osman                                 | BektaÅ\x9f                             | 5061751510        | <blank> |
+| 22338 | Ekrem                                 | Yigit                                  | 5357346631        | <blank> |
+| 22339 | Elif                                  | AvcÄ±                                  | 5349214218        | <blank> |
+| 22340 | Ahmet                                 | Kalkan                                 | 5334048538        | <blank> |
+| 22341 | Muhammed Bayezid                      | YALÃ\x87INTAÅ\x9e                      | 5054474006        | <blank> |
+| 22342 | NiÄ\x9far                             | AvcÄ±                                  | 5375757507        | <blank> |
+| 22343 | SÃ¼leyman                             | Esen                                   | 0491782882333     | <blank> |
+| 22344 | BÃ¼Å\x9fra                            | EyyÃ¼poÄ\x9flu                         | 5364218232        | <blank> |
+| 22345 | Meryem                                | KÃ¶prÃ¼lÃ¼                             | 5300220929        | <blank> |
+| 22346 | Emine                                 | OruÃ§                                  | 5392622031        | <blank> |
+| 22347 | Nuray                                 | KÃ¶ymen                                | 5427278536        | <blank> |
+| 22348 | Selma BetÃ¼l                          | SerdaroÄ\x9flu                         | 5387951777        | <blank> |
+| 22349 | AyÅ\x9fe                              | AydÄ±n                                 | 5511365427        | <blank> |
+| 22350 | merve                                 | tuna                                   | 5535934592        | <blank> |
+| 22351 | ZÃ¼beyir                              | Aka                                    | 5437753741        | <blank> |
+| 22352 | Ä°lhan                                | GÃ¼ney                                 | 5337307052        | <blank> |
+| 22353 | Ahmet Yasir                           | Uysal                                  | 5054790086        | <blank> |
+| 22354 | Salih                                 | Ã\x87ik                                | 5348789668        | <blank> |
+| 22355 | kahraman                              | yÄ±lmaz                                | 5366100105        | <blank> |
+| 22356 | Ä°sa                                  | Ã\x96zel                               | 5346652582        | <blank> |
+| 22357 | Tuba                                  | Keskin                                 | 5462989057        | <blank> |
+| 22358 | AyÅ\x9fenur                           | Bayrak                                 | 5348595625        | <blank> |
+| 22359 | Ä°layda                               | KaradoÄ\x9fan                          | 5415703105        | <blank> |
+| 22360 | Zeliha                                | Yavuz                                  | 5556780052        | <blank> |
+| 22361 | Abdullah                              | SaraÃ§                                 | 5317299700        | <blank> |
+| 22362 | Hatice RÃ¼veyda                       | Okay                                   | 5389864890        | <blank> |
+| 22363 | Selahattin                            | KOÃ\x87AK                              | 5305914251        | <blank> |
+| 22364 | Hatice KÃ¼bra                         | AYDIN                                  | 5058445629        | <blank> |
+| 22365 | Aslan                                 | GÃ¶Ã§er                                | 5424739466        | <blank> |
+| 22366 | Hacer                                 | ZORLU                                  | 5313900807        | <blank> |
+| 22367 | enes burak                            | boyraz                                 | 5537221729        | <blank> |
+| 22368 | Halime                                | Kara                                   | 5385260174        | <blank> |
+| 22369 | Muhammed nezaket                      | ANLAÄ\x9eAN                            | 5510224286        | <blank> |
+| 22370 | Ahmet bilal                           | Dayan                                  | 5448437567        | <blank> |
+| 22371 | GÃ¼ler                                | AktaÅ\x9f                              | 5063528376        | <blank> |
+| 22372 | Seyit                                 | Ã\x9cnal                               | 5423372500        | <blank> |
+| 22373 | Emine                                 | Cengiz                                 | 5414849173        | <blank> |
+| 22374 | cennet                                | sarÄ±                                  | 505413978         | <blank> |
+| 22375 | Kudret                                | Turan                                  | 5374555232        | <blank> |
+| 22376 | Menderes                              | Ates                                   | 5305056365        | <blank> |
+| 22377 | Melek                                 | Yamak                                  | 5327696178        | <blank> |
+| 22378 | Murat                                 | Karaman                                | 5347088172        | <blank> |
+| 22379 | SadÄ±k Emre                           | Birkan                                 | 5307233312        | <blank> |
+| 22380 | sÃ¼leyman                             | karataÅ\x9f                            | 5366716097        | <blank> |
+| 22381 | Muhammet Taha                         | CANPOLAT                               | 5342422599        | <blank> |
+| 22382 | HÄ±fzÄ±                               | Kalender                               | 5367933535        | <blank> |
+| 22383 | Sefa                                  | ESKI                                   | 645423652         | <blank> |
+| 22384 | Enes                                  | TaÅ\x9fdemir                           | 5442632950        | <blank> |
+| 22385 | Muzaffer                              | BozdoÄ\x9fan                           | 5541968144        | <blank> |
+| 22386 | SÃ¼heyl                               | Ceylan                                 | 5523509142        | <blank> |
+| 22387 | Ahmet                                 | Duzenli                                | 5309214900        | <blank> |
+| 22388 | Alettin                               | BÃ¶rk                                  | 5549279519        | <blank> |
+| 22389 | Nurhan                                | Er                                     | 5535148164        | <blank> |
+| 22390 | Hamza                                 | UÃ§an                                  | 5076526271        | <blank> |
+| 22391 | HÄ±fzÄ±                               | Kalender                               | 5367933235        | <blank> |
+| 22392 | Omer                                  | Mantar                                 | 5304053869        | <blank> |
+| 22393 | Harun Hamza                           | SarÄ±cÄ±                               | 5387869552        | <blank> |
+| 22394 | Cennet Sevde                          | GÃ¼l                                   | 5523283552        | <blank> |
+| 22395 | Ä°SA                                  | KOCAKOÃ\x87                            | 5356959254        | <blank> |
+| 22396 | necmiye                               | Yavuz                                  | 5358936960        | <blank> |
+| 22397 | Mesut                                 | Ã\x96zlem                              | 5342253167        | <blank> |
+| 22398 | sena nur                              | apaydÄ±n                               | 5452154548        | <blank> |
+| 22399 | MUSTAFA                               | YAPICI                                 | 5359326058        | <blank> |
+| 22400 | Hilal                                 | Demir                                  | 5334317510        | <blank> |
+| 22401 | HÄ±fzÄ±                               | Kalender                               | 5367932535        | <blank> |
+| 22402 | Hatice                                | Damar                                  | 5444083833        | <blank> |
+| 22403 | Hamza                                 | TunÃ§                                  | 5418599267        | <blank> |
+| 22404 | gÃ¼lseren                             | eÅ\x9fref                              | 5316019260        | <blank> |
+| 22405 | KÃ¼bra                                | SAVURGAN                               | 5533437712        | <blank> |
+| 22406 | Ä°lyas GÃ¼neÅ\x9f                     | GÃ¼neÅ\x9f                             | 5510734198        | <blank> |
+| 22407 | Esma                                  | Arsal                                  | 5442691767        | <blank> |
+| 22408 | Yusuf                                 | YaÅ\x9far                              | 5370488451        | <blank> |
+| 22409 | Kemalettin                            | Dalman                                 | 5544936756        | <blank> |
+| 22410 | Yakup                                 | AdÄ±gÃ¼zel                             | 5438826343        | <blank> |
+| 22411 | MUSTAFA                               | AY                                     | 5326615503        | <blank> |
+| 22412 | Zeki                                  | Canpolat                               | 5435095457        | <blank> |
+| 22413 | Meryem                                | Yurt                                   | 5417864115        | <blank> |
+| 22414 | Ali                                   | Yakac                                  | 15753197158       | <blank> |
+| 22415 | Zahide                                | Tam                                    | 5368295659        | <blank> |
+| 22416 | ayten                                 | karagÃ¼n                               | 5384006914        | <blank> |
+| 22417 | Yusuf                                 | Ã\x9cLGEN                              | 5466026485        | <blank> |
+| 22418 | Fadime                                | Seleci                                 | 5444197869        | <blank> |
+| 22419 | Mehmet                                | Å\x9eahin                              | 5358606210        | <blank> |
+| 22420 | MÃ¼cahit                              | BaÅ\x9fokur                            | 5510684990        | <blank> |
+| 22421 | Osman                                 | BektaÅ\x9f                             | 5061750510        | <blank> |
+| 22422 | Muhammed Fatih                        | Aksoy                                  | 5304135962        | <blank> |
+| 22423 | mehmet zeki                           | AYDIN                                  | 5322244477        | <blank> |
+| 22424 | sÄ±dÄ±ka                              | YILMAZ                                 | 5434148316        | <blank> |
+| 22425 | Baki                                  | ErgÃ¼n                                 | 5359363499        | <blank> |
+| 22426 | Muhammed                              | AkbaÅ\x9f                              | 5313053278        | <blank> |
+| 22427 | Enes                                  | EZDER                                  | 5065923874        | <blank> |
+| 22428 | Mehmet Zahid                          | Aksu                                   | 5353218419        | <blank> |
+| 22429 | ABDULKADÄ°R                           | eyaz                                   | 5346102874        | <blank> |
+| 22430 | mehmet                                | eÅ\x9fref                              | 5323724284        | <blank> |
+| 22431 | Asiye                                 | EroÄ\x9flu                             | 5543613007        | <blank> |
+| 22432 | Atanur                                | Polat                                  | 5058197443        | <blank> |
+| 22433 | Meryem                                | Albayrak                               | 5537922614        | <blank> |
+| 22434 | Adem                                  | SarÄ±calar                             | 5069480506        | <blank> |
+| 22435 | Nagehan                               | DinÃ§er                                | 5530829823        | <blank> |
+| 22436 | sefa                                  | yÄ±lmaz                                | 3124809537        | <blank> |
+| 22437 | Muhammed                              | Ã\x87apuk                              | 5417955459        | <blank> |
+| 22438 | SÃ¼leyman                             | ErgÃ¼n                                 | 5433670564        | <blank> |
+| 22439 | Esra                                  | YÃ¶rÃ¼k                                | 5544144185        | <blank> |
+| 22440 | Satu                                  | YalÃ§Ä±n                               | 5066956686        | <blank> |
+| 22441 | AÄ°Å\x9eE                             | KARAGÃ\x96Z                            | 5412547905        | <blank> |
+| 22442 | Beyza                                 | Bayram                                 | 5455280418        | <blank> |
+| 22443 | Zeynep                                | UÄ\x9fur                               | 5382685073        | <blank> |
+| 22444 | MÃ¼min                                | Erden                                  | 5325997468        | <blank> |
+| 22445 | Esra                                  | TanrÄ±verdi                            | 5527089723        | <blank> |
+| 22446 | Hatice                                | BÃ¼yÃ¼kpÄ±nar                          | 5418324794        | <blank> |
+| 22447 | Resul                                 | Deniz                                  | 5300498947        | <blank> |
+| 22448 | Kemal                                 | Bayram                                 | 5385248839        | <blank> |
+| 22449 | Rabia                                 | GÃ¶lgeci                               | 5316954653        | <blank> |
+| 22450 | Fatma                                 | AydÄ±n                                 | 5438735675        | <blank> |
+| 22451 | Emine                                 | KILIÃ\x87                              | 5312916246        | <blank> |
+| 22452 | Zekiye                                | Ã\x9cnal                               | 5050526392        | <blank> |
+| 22453 | Mehmet                                | Toy                                    | 5388641424        | <blank> |
+| 22454 | Mustafa                               | DÃ¶nmez                                | 5396037840        | <blank> |
+| 22455 | ahmet                                 | karagÃ¼n                               | 5422024204        | <blank> |
+| 22456 | Merve                                 | IÅ\x9fÄ±klÄ±                           | 5432720547        | <blank> |
+| 22457 | Beytullah                             | Bayram                                 | 5469429242        | <blank> |
+| 22458 | Gazi                                  | POLAT                                  | 5422457851        | <blank> |
+| 22459 | Medet                                 | Å\x9eahin                              | 5394624460        | <blank> |
+| 22460 | Cihan                                 | OÄ\x9eECUK                             | 5412526579        | <blank> |
+| 22461 | Hilal                                 | Uslu                                   | 5510758711        | <blank> |
+| 22462 | Alaaddin                              | Aydin                                  | 5510251537        | <blank> |
+| 22463 | Mariye                                | Ezer                                   | 5344413339        | <blank> |
+| 22464 | HÃ¼seyin kerem                        | DoÄ\x9fmuÅ\x9f                         | 5338362202        | <blank> |
+| 22465 | HÃ¼sniye                              | MEÅ\x9eE                               | 5459547239        | <blank> |
+| 22466 | Å\x9eule                              | Ã\x96zkan                              | 5530810928        | <blank> |
+| 22467 | kerem furkan                          | apaydÄ±n                               | 5456885355        | <blank> |
+| 22468 | Merve                                 | FÄ±ndÄ±kÃ§Ä±                           | 5069305889        | <blank> |
+| 22469 | Derya                                 | AluÃ§                                  | 5315063520        | <blank> |
+| 22470 | meryem                                | kelen                                  | 5364917118        | <blank> |
+| 22471 | mustafa                               | enes loÄ\x9foÄ\x9flu                   | 5053119343        | <blank> |
+| 22472 | Aysenur                               | YiÄ\x9fit                              | 5425489734        | <blank> |
+| 22473 | merve                                 | tuna                                   | 5066572735        | <blank> |
+| 22474 | Fatma                                 | TÃ¼rkmen                               | 5061015846        | <blank> |
+| 22475 | Fatma                                 | Sucu                                   | 5458081563        | <blank> |
+| 22476 | Minevver                              | Å\x9eanlÄ±k                            | 5462525229        | <blank> |
+| 22477 | MUSTAFA ALÄ°                          | ERTÃ\x9cRK                             | 905359581915      | <blank> |
+| 22478 | Seval                                 | Ezer                                   | 5447288393        | <blank> |
+| 22479 | Menderes                              | AteÅ\x9f                               | 5357439662        | <blank> |
+| 22480 | SÃ¼meyra                              | YÄ±ldÄ±rÄ±m                            | 5369761552        | <blank> |
+| 22481 | NilgÃ¼n                               | KÃ¶rpe                                 | 5714205654        | <blank> |
+| 22482 | Ã\x96MER FARUK                        | akgÃ¼n                                 | 5369901868        | <blank> |
+| 22483 | Mikail                                | Å\x9eirin                              | 5542719187        | <blank> |
+| 22484 | Abdulkadir                            | Damar                                  | 5457206853        | <blank> |
+| 22485 | Fatma BetÃ¼l                          | Akdemir                                | 5510221807        | <blank> |
+| 22486 | Hamdi                                 | GÃ¼ner                                 | 5432339770        | <blank> |
+| 22487 | Burhan                                | KamiloÄ\x9flu                          | 5392627422        | <blank> |
+| 22488 | Å\x9eeyma                             | TanrÄ±ver                              | 5310858508        | <blank> |
+| 22489 | Suna                                  | GÃ\x9cLTEKÄ°N                          | 5073718169        | <blank> |
+| 22490 | meryem                                | gergerli                               | 5349603692        | <blank> |
+| 22491 | Cihad                                 | Gelebek                                | 5326563227        | <blank> |
+| 22492 | HÃ¼meyra                              | Uyar                                   | 5312284186        | <blank> |
+| 22493 |  Derya                                | Demir                                  | 5519783068        | <blank> |
+| 22494 | TÃ¼rkan                               | GÃ¼mÃ¼Å\x9f                            | 5314224884        | <blank> |
+| 22495 | AyÅ\x9fe                              | POLAT                                  | 5456329080        | <blank> |
+| 22496 | Neriman                               | KaradaÄ\x9f                            | 5384192445        | <blank> |
+| 22497 | Hidayet                               | KarakuÅ\x9f                            | 5332158280        | <blank> |
+| 22498 | Canan                                 | Kayar                                  | 5454078144        | <blank> |
+| 22499 | AHMET FURKAN                          | Sayan                                  | 5058105764        | <blank> |
+| 22500 | Yavuz Selim                           | Kurulay                                | 5515527694        | <blank> |
+| 22501 | Muhammed                              | KIlÄ±nÃ§                               | 5397387275        | <blank> |
+| 22502 | Bayram                                | Can                                    | 5423626604        | <blank> |
+| 22503 | Nesibe                                | Aslan                                  | 5395283480        | <blank> |
+| 22504 | Abdullah                              | KukuÅ\x9f                              | 905434182711      | <blank> |
+| 22505 | Beyza                                 | Ã\x87iftÃ§i                            | 5557598712        | <blank> |
+| 22506 | Abdulkadir                            | TaÅ\x9fkÄ±n                            | 5383492049        | <blank> |
+| 22507 | Nergiz                                | Ã\x87alÄ±Å\x9fkan                      | 5370471445        | <blank> |
+| 22508 | Medet                                 | Å\x9eahin                              | 5369374565        | <blank> |
+| 22509 | GÃ¼lay                                | Ã\x87amlÄ±                             | 5382463701        | <blank> |
+| 22510 | seher erva                            | acar                                   | 5510211493        | <blank> |
+| 22511 | Ceylan                                | Ã\x9cLGEN                              | 5383683405        | <blank> |
+| 22512 | mervenur                              | BAYRAKTAR                              | 5537101209        | <blank> |
+| 22513 | Ã¶zhan                                | Ã¶ner                                  | 5415670233        | <blank> |
+| 22514 | Ali                                   | Ã\x87iftÃ§i                            | 5446195636        | <blank> |
+| 22515 | Ã\x96mer faruk                        | Ata                                    | 5396362667        | <blank> |
+| 22516 | Metin                                 | GÃ\x9cLTEKÄ°N                          | 5304191986        | <blank> |
+| 22517 | yazgÄ±                                | akyÃ¼z                                 | 5051199753        | <blank> |
+| 22518 | GÃ¼lÃ§in                              | Kapukaya                               | 5322781252        | <blank> |
+| 22519 | GÃ¼llÃ¼zar                            | Ã\x87elik                              | 5059883215        | <blank> |
+| 22520 | NilÃ¼fer                              | Ã\x87etinkaya                          | 5386816444        | <blank> |
+| 22521 | Yusuf bera                            | Ã\x96cal                               | 5424177484        | <blank> |
+| 22522 | Ilhan                                 | Kaya                                   | 5413045104        | <blank> |
+| 22523 | SÃ¼meyye                              | DalÄ\x9fÄ±Ã§                           | 5362563083        | <blank> |
+| 22524 | Elif                                  | Ã\x96ztÃ¼rk                            | 5510429563        | <blank> |
+| 22525 | CUMALÄ°                               | DEMÄ°RCÄ°OÄ\x9eLU                      | 5422208341        | <blank> |
+| 22526 | Veysal                                | Uysal                                  | 5323659754        | <blank> |
+| 22527 | Mekane                                | ErgÃ¼n                                 | 5511361328        | <blank> |
+| 22528 | Selim Asaf                            | KIZIKLI                                | 5052144530        | <blank> |
+| 22529 | SadÄ±k                                | Ã\x96Ä\x9fÃ¼t                          | 905074062605      | <blank> |
+| 22530 | Ecmel                                 | YENÄ°GÃ\x9cN                           | 5536759687        | <blank> |
+| 22531 | Arife                                 | Soyuer                                 | 5415015264        | <blank> |
+| 22532 | Yunus                                 | Aras                                   | 5316907862        | <blank> |
+| 22533 | Cihad                                 | Keklik                                 | 5319261807        | <blank> |
+| 22534 | Rana                                  | Temel                                  | 5352601342        | <blank> |
+| 22535 | Ã\x96mer                              | Ã\x96ren                               | 5387034228        | <blank> |
+| 22536 | Ahmet Faruk                           | Ã\x96nder                              | 5449367043        | <blank> |
+| 22537 | Celal Emin                            | Aslaner                                | 5525712969        | <blank> |
+| 22538 | Lale Nur                              | DemirtaÅ\x9f                           | 5392240232        | <blank> |
++-------+---------------------------------------+----------------------------------------+-------------------+---------+
